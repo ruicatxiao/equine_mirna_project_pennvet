@@ -2,4 +2,4 @@
 A collction of scripts and workflow for studying miRNA in equine
 
 
-![Image](https://github.com/user-attachments/assets/d22e2633-b13a-4474-a43f-ceb1c6a23f99)
+![Image](https://github.com/user-attachments/assets/7f5013cd-c327-4985-b216-142a72bfe90a)
