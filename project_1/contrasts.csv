@@ -1,0 +1,7 @@
+id,variable,reference,target,blocking
+control_vs_IFN,condition,control,IFN,horse
+control_vs_TNF,condition,control,TNF,horse
+control_vs_IFNTNF,condition,control,IFN_TNF,horse
+IFN_vs_TNF,condition,IFN,TNF,horse
+IFNTNF_vs_IFN,condition,IFN_TNF,IFN,horse
+IFNTNF_vs_TNF,condition,IFN_TNF,TNF,horse
