@@ -27,27 +27,27 @@ This repo houses the code used for analyzing miRNA from Dr.Kyla Ortved's Equine 
 
 ```
 equine_mirna_project_pennvet/
-├── project_1/			
+├── project			
 │   ├── samplesheet.csv
 │   ├── contrasts.csv
-│   └── smallrnaseq_samplesheet_4da.csv
+│  └── smallrnaseq_samplesheet_4da.csv
 ├── project_2/
 │   ├── samplesheet_2.csv
 │   ├── contrasts_2.csv
-│   └── smallrnaseq_samplesheet_4da_2.csv
-├── README.md
-├── LICENSE
-├── nfcore_smrnaseq.sh
-├── nfcore_smrnaseq_da.sh
-├── process_mirdeep2.py
-└── post_analysis.sh
-
+│  └── smallrnaseq_samplesheet_4da_2.csv
+├── READMd	# This file
+├─LICENSE	# License
+├── nfcore_smrnaseq.sh	# Main script for running smrnaseq pipeline
+├── nfcore_smrnaseq.sh	# Main script for running differentialabundance pipeline
+├── process_mirdeep2.py	# Script for processing per sample miRDeep2 results
+├─volcano_plotting.R	# Script for plotting differentally expressed genes
+└── post_anals.sh	# Script for processing isoMir output
 
 ```
 
 ## Credits
 
-- (Manuscript author list)
+- Mana Okudaira,Lauren K Olenick,Alexandra IJ Usimaki,Hoda Elkhenany,Jillian Bastidas,Renata L Linardi,Angela M Gaesser,Shannon S Connard,Luca Musante,Rui Xiao,Daniel Beiting,Kyla F Ortved
 - The pipeline is developed and implemented by Rui Xiao
 
 ## Data availability
