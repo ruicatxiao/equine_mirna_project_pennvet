@@ -30,17 +30,17 @@ equine_mirna_project_pennvet/
 ├── project			
 │   ├── samplesheet.csv
 │   ├── contrasts.csv
-│  └── smallrnaseq_samplesheet_4da.csv
+│   └── smallrnaseq_samplesheet_4da.csv
 ├── project_2/
 │   ├── samplesheet_2.csv
 │   ├── contrasts_2.csv
-│  └── smallrnaseq_samplesheet_4da_2.csv
+│   └── smallrnaseq_samplesheet_4da_2.csv
 ├── READMd	# This file
-├─LICENSE	# License
+├── LICENSE	# License
 ├── nfcore_smrnaseq.sh	# Main script for running smrnaseq pipeline
 ├── nfcore_smrnaseq.sh	# Main script for running differentialabundance pipeline
 ├── process_mirdeep2.py	# Script for processing per sample miRDeep2 results
-├─volcano_plotting.R	# Script for plotting differentally expressed genes
+├── volcano_plotting.R	# Script for plotting differentally expressed genes
 └── post_anals.sh	# Script for processing isoMir output
 
 ```
